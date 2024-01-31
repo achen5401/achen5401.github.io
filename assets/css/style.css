@@ -7303,7 +7303,7 @@ pre {
   padding: 35px 30px 35px 0;
 }
 
-.contact .form form {
+.contact .form form{
   margin-top: 30px;
 }
 
@@ -7573,4 +7573,8 @@ pre {
 
 .social-item-footer {
   margin-right: 10px; /* Adjust the right margin as needed */
+}
+
+#formContainer {
+  height: 450px; /* Adjust the height according to your design */
 }
